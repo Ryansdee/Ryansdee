@@ -1,67 +1,68 @@
-# 👋 Hello there, I'm Ryan Deschuyteneer (Ryansdee)
+# 👋 Salut, moi c’est Ryan Deschuyteneer
 
-🎯 **Front-End Developer** | 🛠️ **Laravel Backend Beginner** | 🌍 Based in Brussels, Belgium  
-📍 Currently working as a **freelancer** and on **[Nearspot](https://github.com/Ryansdee/nearspot1.0.1)**  
-🌐 Portfolio: [ryansdee.be](https://www.ryansdee.be/)
-
----
-
-## 🚀 About Me
-
-I'm passionate about building clean, responsive, and user-focused web applications. With a strong foundation in front-end technologies and growing experience in Laravel for backend development, I enjoy turning ideas into real, functional digital products.
-
-I love working on personal and collaborative projects, and I’m always learning and exploring new tech stacks.
+🎓 20 ans, diplômé technicien en maintenance informatique et réseaux  
+💻 Développeur web passionné — front-end & débutant en back-end  
+🎸 Musicien à mes heures perdues — guitare et création musicale
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 À propos
 
-**Languages & Frameworks**  
-- 💻 HTML, CSS, JavaScript, TypeScript  
-- ⚛️ React  
-- 🧱 Laravel (beginner)  
-- 🐘 PHP  
-- 📦 Node.js  
-- 🧪 Jest, Vite  
+Bonjour ! Je m'appelle **Ryan Deschuyteneer**, j’ai 20 ans et je suis passionné par le **développement web** depuis plusieurs années.  
+Diplômé en tant que **technicien en maintenance informatique et réseaux**, j’ai élargi mes compétences vers la création de sites web modernes, esthétiques et performants.
 
-**Tools & Platforms**  
-- 🧰 Git & GitHub  
-- 🎨 Figma  
-- 🧠 VS Code  
-- ☁️ Firebase  
-- 🧑‍💻 Freelancer Platforms  
+En dehors du code, je consacre aussi du temps à ma passion pour la **musique**, notamment à la **guitare** et à la **composition musicale**.
 
 ---
 
-## 🔧 Projects Highlight
+## 🛠️ Compétences Techniques
 
-Here are some of the repositories I’ve been working on lately:
+**Développement Web :**  
+- HTML5, CSS3, JavaScript  
+- Tailwind CSS  
+- React, Node.js  
 
-- 🎯 [**Subtrack**](https://github.com/Ryansdee/subtrack) — Subscription tracker built with TypeScript  
-- 🧳 [**Trip Planner**](https://github.com/Ryansdee/trip-planner) — Plan your next adventure!  
-- 🏡 [**Immopulse**](https://github.com/Ryansdee/immopulse) — Real estate platform concept  
-- 🧠 [**Portofolio**](https://github.com/Ryansdee/portofolio) — My personal portfolio  
-- 🛠️ [**Nearspot**](https://github.com/Ryansdee/nearspot1.0.1) — Geo-based app in PHP  
-- 💸 [**BudgetTech**](https://github.com/Ryansdee/budgettech) — Budget management tool
-
-Check out more on my [GitHub Repos](https://github.com/Ryansdee?tab=repositories)!
+**Informatique :**  
+- Maintenance PC  
+- Réseaux  
 
 ---
 
-## 📈 GitHub Stats
+## 🧩 Projets récents
 
-- 📊 225+ contributions in the past year  
-- 🔍 Focused on full-stack web projects  
-- 👨‍🎓 Active contributor to student projects via [@HE2B](https://github.com/HE2B)
+🔹 **Portfolio Personnel**  
+Site responsive réalisé avec HTML, Tailwind CSS et JavaScript  
+[🔗 Voir le projet](https://ryansdee.netlify.app)
+
+🔹 **Clubtwee (test)**  
+Exercice de développement pour un café d’un ami  
+[🔗 Voir le projet](https://clubtwee.netlify.app)
+
+🔹 **Vits Architecture**  
+Landing page professionnelle pour l'entreprise Vits Architecture  
+[🔗 Voir le projet](https://vits-architecture.netlify.app)
+
+🔹 **Garage Laurent**  
+Site vitrine pour un garage automobile  
+[🔗 Voir le projet](https://www.garagelaurent.be)
+
+🔹 **PickLink**  
+Site pour une ASBL engagée contre le cyberharcèlement  
+[🔗 Voir le projet](https://www.picklink.be)
+
+🔹 **SubTrack**  
+Application web pour suivre et comparer ses abonnements  
+[🔗 Voir le projet](https://tracksub.netlify.app)
 
 ---
 
-## 📫 Let's Connect
+## 📬 Me contacter
 
-- 🌐 Website: [ryansdee.be](https://www.ryansdee.be/)  
-- 💼 LinkedIn: *(à ajouter si tu veux)*  
-- 📩 Email: *(à ajouter si tu veux)*
+**📧 Email :** ryan.deschuyteneer@gmail.com  
+**📱 Téléphone :** +32 498 19 65 23  
+**🌐 GitHub :** [github.com/Ryansdee](https://github.com/Ryansdee)  
 
 ---
 
-Thanks for visiting! 🚀  
+Merci de votre visite ! 🚀  
+N'hésitez pas à me contacter pour toute collaboration, projet ou opportunité.
