@@ -13,6 +13,8 @@ Diplômé en tant que **technicien en maintenance informatique et réseaux**, j�
 
 En dehors du code, je consacre aussi du temps à ma passion pour la **musique**, notamment à la **guitare** et à la **composition musicale**.
 
+Je suis **Opérateur Système d'Alarme** chez **G4S** en Belgique !
+
 ---
 
 ## 🛠️ Compétences Techniques
