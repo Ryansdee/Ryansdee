@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est Ryan Deschuyteneer
 
-🎓 20 ans, diplômé technicien en maintenance informatique et réseaux  
+🎓 21 ans, diplômé technicien en maintenance informatique et réseaux  
 💻 Développeur web passionné — front-end & débutant en back-end  
 🎸 Musicien à mes heures perdues — guitare et création musicale
 
@@ -8,7 +8,7 @@
 
 ## 🚀 À propos
 
-Bonjour ! Je m'appelle **Ryan Deschuyteneer**, j’ai 20 ans et je suis passionné par le **développement web** depuis plusieurs années.  
+Bonjour ! Je m'appelle **Ryan Deschuyteneer**, j’ai 21 ans et je suis passionné par le **développement web** depuis plusieurs années.  
 Diplômé en tant que **technicien en maintenance informatique et réseaux**, j’ai élargi mes compétences vers la création de sites web modernes, esthétiques et performants.
 
 En dehors du code, je consacre aussi du temps à ma passion pour la **musique**, notamment à la **guitare** et à la **composition musicale**.
