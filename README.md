@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est Ryan Deschuyteneer
 
-🎓 21 ans, diplômé technicien en maintenance informatique et réseaux  
+🎓 22 ans, diplômé technicien en maintenance informatique et réseaux  
 💻 Développeur web passionné — front-end & débutant en back-end  
 🎸 Musicien à mes heures perdues — guitare et création musicale
 
